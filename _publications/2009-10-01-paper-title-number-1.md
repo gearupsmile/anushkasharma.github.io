@@ -1,14 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments from Constraint-Driven Selection to Developmental Encoding"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2026-07-gecco-workshop-evolving-self-organising-agents
+excerpt: 'This paper presents three falsifiable experiments exploring constraint-driven selection and developmental encoding as mechanisms for sustaining open-ended evolution without explicit fitness functions. Grounded in the Genesis Engine platform, it bridges evolutionary computation and AGI safety by demonstrating that novelty can emerge and persist through structural constraints alone.'
+date: 2026-07-01
+venue: 'Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO 2026 Companion)'
+paperurl: 'https://www.researchgate.net/publication/405054000_Evolving_Self-Organising_Agents_Without_Fitness_Three_Falsifiable_Experiments_from_Constraint-Driven_Selection_to_Developmental_Encoding'
+citation: 'Anushka Sharma. (accepted). &quot;Evolving Self-Organising Agents Without Fitness: Three Falsifiable Experiments from Constraint-Driven Selection to Developmental Encoding.&quot; In <i>Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO &apos;26 Companion)</i>. To appear.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper presents three falsifiable experiments investigating whether open-ended evolutionary activity can be sustained purely through structural and developmental constraints — without any explicit fitness function. The work is grounded in the **Genesis Engine**, a sham-controlled co-evolutionary platform designed to isolate and study the mechanisms that give rise to sustained novelty in artificial systems.
+
+**Key contributions:**
+- Formalises constraint-driven selection as a sufficient mechanism for sustained agent self-organisation
+- Introduces developmental encoding as a second experimental axis, testing whether genotype-phenotype mappings affect long-run evolutionary viability
+- Provides falsifiable predictions for each experiment, grounding the work in rigorous scientific methodology
+
+**Relevance to AGI Safety:**
+By demonstrating that novelty generation does not require reward signals, this work directly informs the reward hacking problem in AGI — showing that intrinsic structural constraints can substitute for, and potentially improve upon, explicit fitness landscapes.
+
+**Venue:** GECCO 2026 Companion (Workshop Paper / Extended Abstract) — accepted, to appear.
+
+**ResearchGate Preprint:** [View on ResearchGate](https://www.researchgate.net/publication/405054000_Evolving_Self-Organising_Agents_Without_Fitness_Three_Falsifiable_Experiments_from_Constraint-Driven_Selection_to_Developmental_Encoding)
